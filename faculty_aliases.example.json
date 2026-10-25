@@ -1,0 +1,7 @@
+{
+  "_comment": "Map the placeholder names used in the 'Subject wise' sheet to real faculty. Use with --alias-file faculty_aliases.json",
+  "New Faculty 1": "",
+  "New Faculty 2": "",
+  "New Faculty 3": "",
+  "New Faculty 4": ""
+}

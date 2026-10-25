@@ -1,0 +1,8 @@
+{
+  "_comment": "Weekly teaching hours for subjects that are not in the 'Courses' sheet. Use with --hours-file subject_hours.json",
+  "design thinking": 2,
+  "iot skill lab": 2,
+  "open elective (basics of ai/ml)": 3,
+  "uhv": 1,
+  "rmipr": 1
+}
