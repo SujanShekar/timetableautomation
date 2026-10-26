@@ -427,6 +427,13 @@ class HoursResolver:
     def resolve(self, subject: str, semester: int) -> Tuple[float, str]:
         key = subject_key(subject)
         override_key = normalise_name(subject)
+
+        rule_key = (semester, override_key)
+        if rule_key in self.config.subject_hour_rules:
+            hours = self.config.subject_hour_rules[rule_key]
+            self.report[subject] = (hours, "rule")
+            return hours, "rule"
+
         if override_key in self.config.subject_hours_overrides:
             hours = self.config.subject_hours_overrides[override_key]
             self.report[subject] = (hours, "override")

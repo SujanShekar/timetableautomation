@@ -1,161 +1,161 @@
 semester,section,day,period,time,subject,faculty,type
-1st Sem,Sec A,Mon,1,09:00-10:00,Introduction to AI and its Applications,Seema H R,Theory
-1st Sem,Sec A,Mon,2,10:00-11:00,Programming in C,Dr. C Balarengadurai,Theory
-1st Sem,Sec A,Wed,1,09:00-10:00,Programming in C Laboratory,Dr. C Balarengadurai,Theory
+1st Sem,Sec A,Mon,2,10:00-11:00,Introduction to AI and its Applications,Seema H R,Theory
+1st Sem,Sec A,Mon,3,11:30-12:30,Programming in C,Dr. C Balarengadurai,Theory
+1st Sem,Sec A,Mon,4,12:30-13:30,Programming in C Laboratory,Dr. C Balarengadurai,Theory
+1st Sem,Sec A,Tue,2,10:00-11:00,Introduction to AI and its Applications,Seema H R,Theory
+1st Sem,Sec A,Tue,3,11:30-12:30,Programming in C,Dr. C Balarengadurai,Theory
 1st Sem,Sec A,Wed,2,10:00-11:00,Programming in C,Dr. C Balarengadurai,Theory
-1st Sem,Sec A,Wed,3,11:15-12:15,Introduction to AI and its Applications,Seema H R,Theory
-1st Sem,Sec A,Fri,1,09:00-10:00,Programming in C,Dr. C Balarengadurai,Theory
-1st Sem,Sec B,Mon,1,09:00-10:00,Programming in C,Dr. C Manjunath,Theory
-1st Sem,Sec B,Mon,2,10:00-11:00,Introduction to AI and its Applications,Revathy B D,Theory
-1st Sem,Sec B,Wed,1,09:00-10:00,Programming in C,Dr. C Manjunath,Theory
-1st Sem,Sec B,Wed,2,10:00-11:00,Programming in C Laboratory,Dr. C Manjunath,Theory
-1st Sem,Sec B,Thu,1,09:00-10:00,Introduction to AI and its Applications,Revathy B D,Theory
-1st Sem,Sec B,Thu,2,10:00-11:00,Programming in C,Dr. C Manjunath,Theory
-1st Sem,Sec C,Mon,1,09:00-10:00,Introduction to AI and its Applications,Vignesh T V,Theory
-1st Sem,Sec C,Mon,2,10:00-11:00,Programming in C Laboratory,Prashanth N,Theory
-1st Sem,Sec C,Mon,3,11:15-12:15,Programming in C,Prashanth N,Theory
-1st Sem,Sec C,Tue,2,10:00-11:00,Programming in C,Prashanth N,Theory
-1st Sem,Sec C,Tue,3,11:15-12:15,Introduction to AI and its Applications,Vignesh T V,Theory
-1st Sem,Sec C,Wed,2,10:00-11:00,Programming in C,Prashanth N,Theory
+1st Sem,Sec B,Wed,2,10:00-11:00,Programming in C,Dr. C Manjunath,Theory
+1st Sem,Sec B,Thu,2,10:00-11:00,Introduction to AI and its Applications,Revathy B D,Theory
+1st Sem,Sec B,Thu,3,11:30-12:30,Programming in C Laboratory,Dr. C Manjunath,Theory
+1st Sem,Sec B,Thu,4,12:30-13:30,Programming in C,Dr. C Manjunath,Theory
+1st Sem,Sec B,Sat,1,09:00-10:00,Programming in C,Dr. C Manjunath,Theory
+1st Sem,Sec B,Sat,2,10:00-11:00,Introduction to AI and its Applications,Revathy B D,Theory
+1st Sem,Sec C,Wed,2,10:00-11:00,Programming in C Laboratory,Prashanth N,Theory
+1st Sem,Sec C,Wed,3,11:30-12:30,Programming in C,Prashanth N,Theory
+1st Sem,Sec C,Thu,2,10:00-11:00,Programming in C,Prashanth N,Theory
+1st Sem,Sec C,Thu,3,11:30-12:30,Introduction to AI and its Applications,Vignesh T V,Theory
+1st Sem,Sec C,Fri,2,10:00-11:00,Programming in C,Prashanth N,Theory
+1st Sem,Sec C,Fri,3,11:30-12:30,Introduction to AI and its Applications,Vignesh T V,Theory
 1st Sem,Sec D,Mon,2,10:00-11:00,Programming in C,Nidhishree G,Theory
-1st Sem,Sec D,Tue,1,09:00-10:00,Introduction to AI and its Applications,Gaurav,Theory
-1st Sem,Sec D,Tue,2,10:00-11:00,Programming in C Laboratory,Nidhishree G,Theory
-1st Sem,Sec D,Tue,3,11:15-12:15,Programming in C,Nidhishree G,Theory
-1st Sem,Sec D,Thu,2,10:00-11:00,Programming in C,Nidhishree G,Theory
-1st Sem,Sec D,Thu,3,11:15-12:15,Introduction to AI and its Applications,Gaurav,Theory
-1st Sem,Sec E,Mon,2,10:00-11:00,Programming in C,Mohan Kumar G,Theory
-1st Sem,Sec E,Tue,1,09:00-10:00,Programming in C Laboratory,Mohan Kumar G,Theory
+1st Sem,Sec D,Mon,3,11:30-12:30,Introduction to AI and its Applications,Gaurav,Theory
+1st Sem,Sec D,Wed,2,10:00-11:00,Programming in C Laboratory,Nidhishree G,Theory
+1st Sem,Sec D,Wed,3,11:30-12:30,Programming in C,Nidhishree G,Theory
+1st Sem,Sec D,Wed,4,12:30-13:30,Introduction to AI and its Applications,Gaurav,Theory
+1st Sem,Sec D,Sat,2,10:00-11:00,Programming in C,Nidhishree G,Theory
 1st Sem,Sec E,Tue,2,10:00-11:00,Programming in C,Mohan Kumar G,Theory
-1st Sem,Sec E,Tue,3,11:15-12:15,Introduction to AI and its Applications,New Faculty 1,Theory
-1st Sem,Sec E,Wed,1,09:00-10:00,Introduction to AI and its Applications,New Faculty 1,Theory
+1st Sem,Sec E,Tue,3,11:30-12:30,Introduction to AI and its Applications,New Faculty 1,Theory
 1st Sem,Sec E,Wed,2,10:00-11:00,Programming in C,Mohan Kumar G,Theory
-1st Sem,Sec F,Mon,1,09:00-10:00,Introduction to AI and its Applications,New Faculty 4,Theory
+1st Sem,Sec E,Wed,3,11:30-12:30,Introduction to AI and its Applications,New Faculty 1,Theory
+1st Sem,Sec E,Fri,2,10:00-11:00,Programming in C,Mohan Kumar G,Theory
+1st Sem,Sec E,Fri,3,11:30-12:30,Programming in C Laboratory,Mohan Kumar G,Theory
 1st Sem,Sec F,Mon,2,10:00-11:00,Programming in C,K B Manasa,Theory
-1st Sem,Sec F,Mon,3,11:15-12:15,Programming in C Laboratory,K B Manasa,Theory
-1st Sem,Sec F,Tue,1,09:00-10:00,Introduction to AI and its Applications,New Faculty 4,Theory
-1st Sem,Sec F,Tue,2,10:00-11:00,Programming in C,K B Manasa,Theory
-1st Sem,Sec F,Sat,2,10:00-11:00,Programming in C,K B Manasa,Theory
-3rd Sem,Sec A,Tue,1,09:00-10:00,Operating System,Prashanth N,Theory
-3rd Sem,Sec A,Tue,2,10:00-11:00,Oops with Java,Seema H R,Theory
-3rd Sem,Sec A,Tue,3,11:15-12:15,Java Laboratory,Seema H R,Lab
-3rd Sem,Sec A,Tue,5,14:00-15:00,UHV,Indu J,Theory
+1st Sem,Sec F,Wed,1,09:00-10:00,Introduction to AI and its Applications,New Faculty 4,Theory
+1st Sem,Sec F,Wed,2,10:00-11:00,Programming in C,K B Manasa,Theory
+1st Sem,Sec F,Fri,2,10:00-11:00,Programming in C,K B Manasa,Theory
+1st Sem,Sec F,Fri,3,11:30-12:30,Programming in C Laboratory,K B Manasa,Theory
+1st Sem,Sec F,Fri,4,12:30-13:30,Introduction to AI and its Applications,New Faculty 4,Theory
+3rd Sem,Sec A,Mon,1,09:00-10:00,Oops with Java,Seema H R,Theory
+3rd Sem,Sec A,Mon,2,10:00-11:00,Operating System,Prashanth N,Theory
+3rd Sem,Sec A,Mon,3,11:30-12:30,Data Structures,Dr. Prashanth M V,Theory
+3rd Sem,Sec A,Mon,4,12:30-13:30,Data Structures Laboratory,Dr. Prashanth M V,Lab
+3rd Sem,Sec A,Tue,2,10:00-11:00,Operating System,Prashanth N,Theory
+3rd Sem,Sec A,Tue,3,11:30-12:30,Oops with Java,Seema H R,Theory
+3rd Sem,Sec A,Tue,4,12:30-13:30,Java Laboratory,Seema H R,Lab
 3rd Sem,Sec A,Tue,6,15:00-16:00,Data Structures,Dr. Prashanth M V,Theory
-3rd Sem,Sec A,Thu,1,09:00-10:00,Operating System,Prashanth N,Theory
-3rd Sem,Sec A,Thu,2,10:00-11:00,Oops with Java,Seema H R,Theory
-3rd Sem,Sec A,Thu,3,11:15-12:15,Data Structures,Dr. Prashanth M V,Theory
-3rd Sem,Sec A,Thu,4,13:00-14:00,Data Structures Laboratory,Dr. Prashanth M V,Lab
-3rd Sem,Sec A,Sat,1,09:00-10:00,Data Structures,Dr. Prashanth M V,Theory
-3rd Sem,Sec A,Sat,2,10:00-11:00,Operating System,Prashanth N,Theory
-3rd Sem,Sec A,Sat,3,11:15-12:15,Oops with Java,Seema H R,Theory
+3rd Sem,Sec A,Wed,1,09:00-10:00,Operating System,Prashanth N,Theory
+3rd Sem,Sec A,Wed,2,10:00-11:00,Oops with Java,Seema H R,Theory
+3rd Sem,Sec A,Thu,1,09:00-10:00,Data Structures,Dr. Prashanth M V,Theory
+3rd Sem,Sec A,Thu,2,10:00-11:00,UHV,Indu J,Theory
 3rd Sem,Sec B,Mon,1,09:00-10:00,Operating System,Nidhishree G,Theory
-3rd Sem,Sec B,Mon,2,10:00-11:00,Web App Development,Dr. Pramila R M,Theory
-3rd Sem,Sec B,Mon,3,11:15-12:15,Oops with Java,Revathy B D,Theory
-3rd Sem,Sec B,Mon,4,13:00-14:00,Data Structures,Indu J,Theory
-3rd Sem,Sec B,Mon,5,14:00-15:00,UHV,Soumya G V,Theory
-3rd Sem,Sec B,Tue,1,09:00-10:00,Operating System,Nidhishree G,Theory
-3rd Sem,Sec B,Tue,2,10:00-11:00,Web App Development,Dr. Pramila R M,Theory
-3rd Sem,Sec B,Tue,3,11:15-12:15,Data Structures Laboratory,Indu J,Lab
-3rd Sem,Sec B,Tue,5,14:00-15:00,Oops with Java,Revathy B D,Theory
-3rd Sem,Sec B,Tue,6,15:00-16:00,Data Structures,Indu J,Theory
+3rd Sem,Sec B,Mon,2,10:00-11:00,Oops with Java,Revathy B D,Theory
+3rd Sem,Sec B,Mon,3,11:30-12:30,Java Laboratory,Revathy B D,Lab
+3rd Sem,Sec B,Mon,5,14:00-15:00,Data Structures Laboratory,Indu J,Lab
+3rd Sem,Sec B,Tue,1,09:00-10:00,Oops with Java,Revathy B D,Theory
+3rd Sem,Sec B,Tue,2,10:00-11:00,Operating System,Nidhishree G,Theory
+3rd Sem,Sec B,Tue,3,11:30-12:30,Web App Development,Dr. Pramila R M,Theory
+3rd Sem,Sec B,Tue,4,12:30-13:30,Data Structures,Indu J,Theory
 3rd Sem,Sec B,Wed,1,09:00-10:00,Data Structures,Indu J,Theory
-3rd Sem,Sec B,Wed,2,10:00-11:00,Operating System,Nidhishree G,Theory
-3rd Sem,Sec B,Wed,3,11:15-12:15,Oops with Java,Revathy B D,Theory
-3rd Sem,Sec B,Wed,4,13:00-14:00,Java Laboratory,Revathy B D,Lab
-3rd Sem,Sec C,Mon,1,09:00-10:00,Design Thinking,Mohan Kumar G,Theory
-3rd Sem,Sec C,Mon,2,10:00-11:00,Data Structures,Vignesh T V,Theory
-3rd Sem,Sec C,Mon,3,11:15-12:15,Data Structures Laboratory,Vignesh T V,Lab
+3rd Sem,Sec B,Wed,2,10:00-11:00,Oops with Java,Revathy B D,Theory
+3rd Sem,Sec B,Wed,3,11:30-12:30,Web App Development,Dr. Pramila R M,Theory
+3rd Sem,Sec B,Fri,1,09:00-10:00,UHV,Soumya G V,Theory
+3rd Sem,Sec B,Fri,2,10:00-11:00,Operating System,Nidhishree G,Theory
+3rd Sem,Sec B,Fri,3,11:30-12:30,Data Structures,Indu J,Theory
+3rd Sem,Sec C,Mon,1,09:00-10:00,Data Structures,Vignesh T V,Theory
+3rd Sem,Sec C,Mon,2,10:00-11:00,Data Structures Laboratory,Vignesh T V,Lab
+3rd Sem,Sec C,Mon,4,12:30-13:30,Web App Development,Latha D U,Theory
 3rd Sem,Sec C,Mon,5,14:00-15:00,Operating System,Rachana S,Theory
 3rd Sem,Sec C,Mon,6,15:00-16:00,Oops with Java,Rashmi K,Theory
-3rd Sem,Sec C,Tue,1,09:00-10:00,Oops with Java,Rashmi K,Theory
-3rd Sem,Sec C,Tue,2,10:00-11:00,Java Laboratory,Rashmi K,Lab
-3rd Sem,Sec C,Tue,4,13:00-14:00,IoT Skill Lab,Soumya G V,Lab
-3rd Sem,Sec C,Wed,1,09:00-10:00,Operating System,Rachana S,Theory
-3rd Sem,Sec C,Wed,2,10:00-11:00,Web App Development,Latha D U,Theory
-3rd Sem,Sec C,Wed,3,11:15-12:15,Data Structures,Vignesh T V,Theory
-3rd Sem,Sec C,Wed,4,13:00-14:00,UHV,New Faculty 2,Theory
-3rd Sem,Sec C,Thu,1,09:00-10:00,Data Structures,Vignesh T V,Theory
-3rd Sem,Sec C,Thu,2,10:00-11:00,Operating System,Rachana S,Theory
-3rd Sem,Sec C,Thu,3,11:15-12:15,Web App Development,Latha D U,Theory
-3rd Sem,Sec C,Thu,4,13:00-14:00,Design Thinking,Mohan Kumar G,Theory
-3rd Sem,Sec C,Thu,5,14:00-15:00,Oops with Java,Rashmi K,Theory
-5th Sem,Sec A,Mon,1,09:00-10:00,Machine Learning,Dr. Varshitha D N,Theory
-5th Sem,Sec A,Mon,2,10:00-11:00,Machine Learning Lab,Dr. Varshitha D N,Lab
-5th Sem,Sec A,Mon,4,13:00-14:00,Cloud Computing,Harshith V,Theory
-5th Sem,Sec A,Mon,5,14:00-15:00,Management and Engineering Economics,Harshith C,Theory
-5th Sem,Sec A,Mon,6,15:00-16:00,Cryptography and Network Security,New Faculty 1,Theory
-5th Sem,Sec A,Tue,1,09:00-10:00,Machine Learning,Dr. Varshitha D N,Theory
-5th Sem,Sec A,Tue,2,10:00-11:00,Cloud Computing,Harshith V,Theory
-5th Sem,Sec A,Tue,3,11:15-12:15,Computer Networks,Dr. Vijay C P,Theory
-5th Sem,Sec A,Tue,4,13:00-14:00,RMIPR,Dr. C Balarengadurai,Theory
-5th Sem,Sec A,Wed,1,09:00-10:00,Management and Engineering Economics,Harshith C,Theory
-5th Sem,Sec A,Wed,2,10:00-11:00,Computer Networks,Dr. Vijay C P,Theory
-5th Sem,Sec A,Wed,3,11:15-12:15,Machine Learning,Dr. Varshitha D N,Theory
-5th Sem,Sec A,Wed,4,13:00-14:00,DevOps Laboratory,Dr. Aditya C R,Lab
-5th Sem,Sec A,Fri,1,09:00-10:00,Management and Engineering Economics,Harshith C,Theory
-5th Sem,Sec A,Fri,2,10:00-11:00,Cryptography and Network Security,New Faculty 1,Theory
-5th Sem,Sec A,Fri,3,11:15-12:15,Cloud Computing,Harshith V,Theory
-5th Sem,Sec A,Fri,4,13:00-14:00,Computer Networks,Dr. Vijay C P,Theory
-5th Sem,Sec A,Sat,1,09:00-10:00,Computer Networks,Dr. Vijay C P,Theory
-5th Sem,Sec A,Sat,2,10:00-11:00,Cryptography and Network Security,New Faculty 1,Theory
+3rd Sem,Sec C,Tue,1,09:00-10:00,Design Thinking,Mohan Kumar G,Theory
+3rd Sem,Sec C,Tue,2,10:00-11:00,Operating System,Rachana S,Theory
+3rd Sem,Sec C,Tue,3,11:30-12:30,Web App Development,Latha D U,Theory
+3rd Sem,Sec C,Tue,4,12:30-13:30,Data Structures,Vignesh T V,Theory
+3rd Sem,Sec C,Tue,5,14:00-15:00,UHV,New Faculty 2,Theory
+3rd Sem,Sec C,Wed,1,09:00-10:00,Oops with Java,Rashmi K,Theory
+3rd Sem,Sec C,Wed,2,10:00-11:00,Data Structures,Vignesh T V,Theory
+3rd Sem,Sec C,Wed,3,11:30-12:30,Design Thinking,Mohan Kumar G,Theory
+3rd Sem,Sec C,Wed,4,12:30-13:30,Operating System,Rachana S,Theory
+3rd Sem,Sec C,Thu,2,10:00-11:00,IoT Skill Lab,Soumya G V,Lab
+3rd Sem,Sec C,Thu,4,12:30-13:30,Java Laboratory,Rashmi K,Lab
+3rd Sem,Sec C,Thu,6,15:00-16:00,Oops with Java,Rashmi K,Theory
+5th Sem,Sec A,Mon,1,09:00-10:00,Cryptography and Network Security,New Faculty 1,Theory
+5th Sem,Sec A,Mon,2,10:00-11:00,Machine Learning,Dr. Varshitha D N,Theory
+5th Sem,Sec A,Mon,3,11:30-12:30,Cloud Computing,Harshith V,Theory
+5th Sem,Sec A,Mon,4,12:30-13:30,Management and Engineering Economics,Harshith C,Theory
+5th Sem,Sec A,Mon,5,14:00-15:00,Computer Networks,Dr. Vijay C P,Theory
+5th Sem,Sec A,Tue,1,09:00-10:00,Cloud Computing,Harshith V,Theory
+5th Sem,Sec A,Tue,2,10:00-11:00,Machine Learning,Dr. Varshitha D N,Theory
+5th Sem,Sec A,Tue,3,11:30-12:30,Management and Engineering Economics,Harshith C,Theory
+5th Sem,Sec A,Tue,4,12:30-13:30,Cryptography and Network Security,New Faculty 1,Theory
+5th Sem,Sec A,Tue,5,14:00-15:00,Computer Networks,Dr. Vijay C P,Theory
+5th Sem,Sec A,Thu,1,09:00-10:00,Machine Learning,Dr. Varshitha D N,Theory
+5th Sem,Sec A,Thu,2,10:00-11:00,Machine Learning Lab,Dr. Varshitha D N,Lab
+5th Sem,Sec A,Thu,4,12:30-13:30,Management and Engineering Economics,Harshith C,Theory
+5th Sem,Sec A,Thu,5,14:00-15:00,Computer Networks,Dr. Vijay C P,Theory
+5th Sem,Sec A,Thu,6,15:00-16:00,Cryptography and Network Security,New Faculty 1,Theory
+5th Sem,Sec A,Fri,1,09:00-10:00,RMIPR,Dr. C Balarengadurai,Theory
+5th Sem,Sec A,Fri,2,10:00-11:00,Cloud Computing,Harshith V,Theory
+5th Sem,Sec A,Fri,3,11:30-12:30,Computer Networks,Dr. Vijay C P,Theory
+5th Sem,Sec A,Fri,4,12:30-13:30,DevOps Laboratory,Dr. Aditya C R,Lab
 5th Sem,Sec B,Mon,1,09:00-10:00,Machine Learning,Dr. Pramila R M,Theory
-5th Sem,Sec B,Mon,2,10:00-11:00,Web App Development,Pooja N S,Theory
-5th Sem,Sec B,Mon,3,11:15-12:15,Machine Learning Lab,Dr. Pramila R M,Lab
-5th Sem,Sec B,Mon,5,14:00-15:00,Computer Networks,New Faculty 2,Theory
-5th Sem,Sec B,Mon,6,15:00-16:00,Management and Engineering Economics,Gaurav,Theory
-5th Sem,Sec B,Tue,1,09:00-10:00,Computer Networks,New Faculty 2,Theory
-5th Sem,Sec B,Tue,2,10:00-11:00,Cryptography and Network Security,New Faculty 4,Theory
-5th Sem,Sec B,Tue,3,11:15-12:15,Management and Engineering Economics,Gaurav,Theory
-5th Sem,Sec B,Tue,4,13:00-14:00,RMIPR,Dr. C Manjunath,Theory
-5th Sem,Sec B,Wed,1,09:00-10:00,Machine Learning,Dr. Pramila R M,Theory
-5th Sem,Sec B,Wed,2,10:00-11:00,Web App Development,Pooja N S,Theory
-5th Sem,Sec B,Wed,3,11:15-12:15,DevOps Laboratory,Dr. Vijay C P,Lab
-5th Sem,Sec B,Wed,5,14:00-15:00,Computer Networks,New Faculty 2,Theory
-5th Sem,Sec B,Wed,6,15:00-16:00,Cryptography and Network Security,New Faculty 4,Theory
-5th Sem,Sec B,Sat,1,09:00-10:00,Management and Engineering Economics,Gaurav,Theory
-5th Sem,Sec B,Sat,2,10:00-11:00,Machine Learning,Dr. Pramila R M,Theory
-5th Sem,Sec B,Sat,3,11:15-12:15,Computer Networks,New Faculty 2,Theory
-5th Sem,Sec B,Sat,4,13:00-14:00,Cryptography and Network Security,New Faculty 4,Theory
-5th Sem,Sec C,Mon,1,09:00-10:00,Machine Learning Lab,Latha D U,Lab
-5th Sem,Sec C,Mon,3,11:15-12:15,Web App Development,Shruthi B S,Theory
-5th Sem,Sec C,Mon,4,13:00-14:00,Machine Learning,Latha D U,Theory
-5th Sem,Sec C,Mon,5,14:00-15:00,Computer Networks,New Faculty 3,Theory
+5th Sem,Sec B,Mon,2,10:00-11:00,Machine Learning Lab,Dr. Pramila R M,Lab
+5th Sem,Sec B,Mon,4,12:30-13:30,Web App Development,Pooja N S,Theory
+5th Sem,Sec B,Mon,5,14:00-15:00,Cryptography and Network Security,New Faculty 4,Theory
+5th Sem,Sec B,Mon,6,15:00-16:00,Computer Networks,New Faculty 2,Theory
+5th Sem,Sec B,Tue,1,09:00-10:00,Web App Development,Pooja N S,Theory
+5th Sem,Sec B,Tue,2,10:00-11:00,Machine Learning,Dr. Pramila R M,Theory
+5th Sem,Sec B,Tue,3,11:30-12:30,RMIPR,Dr. C Manjunath,Theory
+5th Sem,Sec B,Tue,4,12:30-13:30,Cryptography and Network Security,New Faculty 4,Theory
+5th Sem,Sec B,Tue,5,14:00-15:00,Management and Engineering Economics,Gaurav,Theory
+5th Sem,Sec B,Tue,6,15:00-16:00,Computer Networks,New Faculty 2,Theory
+5th Sem,Sec B,Thu,1,09:00-10:00,Computer Networks,New Faculty 2,Theory
+5th Sem,Sec B,Thu,2,10:00-11:00,Machine Learning,Dr. Pramila R M,Theory
+5th Sem,Sec B,Thu,3,11:30-12:30,DevOps Laboratory,Dr. Vijay C P,Lab
+5th Sem,Sec B,Thu,5,14:00-15:00,Management and Engineering Economics,Gaurav,Theory
+5th Sem,Sec B,Fri,1,09:00-10:00,Management and Engineering Economics,Gaurav,Theory
+5th Sem,Sec B,Fri,2,10:00-11:00,Computer Networks,New Faculty 2,Theory
+5th Sem,Sec B,Fri,3,11:30-12:30,Cryptography and Network Security,New Faculty 4,Theory
+5th Sem,Sec C,Mon,1,09:00-10:00,Machine Learning,Latha D U,Theory
+5th Sem,Sec C,Mon,2,10:00-11:00,Machine Learning Lab,Latha D U,Lab
+5th Sem,Sec C,Mon,4,12:30-13:30,Web App Development,Shruthi B S,Theory
+5th Sem,Sec C,Mon,5,14:00-15:00,Open Elective (Basics of AI/ML),Dr. Sonali Nandish Manoli,Theory
 5th Sem,Sec C,Mon,6,15:00-16:00,Management and Engineering Economics,Rachana S,Theory
 5th Sem,Sec C,Tue,1,09:00-10:00,Computer Networks,New Faculty 3,Theory
-5th Sem,Sec C,Tue,2,10:00-11:00,Machine Learning,Latha D U,Theory
-5th Sem,Sec C,Tue,3,11:15-12:15,Web App Development,Shruthi B S,Theory
-5th Sem,Sec C,Tue,4,13:00-14:00,Open Elective (Basics of AI/ML),Dr. Sonali Nandish Manoli,Theory
+5th Sem,Sec C,Tue,2,10:00-11:00,Open Elective (Basics of AI/ML),Dr. Sonali Nandish Manoli,Theory
+5th Sem,Sec C,Tue,3,11:30-12:30,DevOps Laboratory,Rashmi K,Lab
 5th Sem,Sec C,Tue,5,14:00-15:00,RMIPR,Dr. Prashanth M V,Theory
-5th Sem,Sec C,Tue,6,15:00-16:00,Management and Engineering Economics,Rachana S,Theory
-5th Sem,Sec C,Wed,1,09:00-10:00,Machine Learning,Latha D U,Theory
-5th Sem,Sec C,Wed,2,10:00-11:00,Management and Engineering Economics,Rachana S,Theory
-5th Sem,Sec C,Wed,3,11:15-12:15,Open Elective (Basics of AI/ML),Dr. Sonali Nandish Manoli,Theory
-5th Sem,Sec C,Wed,4,13:00-14:00,DevOps Laboratory,Rashmi K,Lab
-5th Sem,Sec C,Wed,6,15:00-16:00,Computer Networks,New Faculty 3,Theory
-5th Sem,Sec C,Fri,1,09:00-10:00,Open Elective (Basics of AI/ML),Dr. Sonali Nandish Manoli,Theory
-5th Sem,Sec C,Fri,2,10:00-11:00,Computer Networks,New Faculty 3,Theory
-7th Sem,Sec A,Tue,1,09:00-10:00,NoSQL Database,Pooja N S,Theory
-7th Sem,Sec A,Tue,2,10:00-11:00,Natural Language Processing,Dr. Varshitha D N,Theory
-7th Sem,Sec A,Tue,3,11:15-12:15,Pattern Recognition,Harshith C,Theory
-7th Sem,Sec A,Thu,1,09:00-10:00,NoSQL Database,Pooja N S,Theory
-7th Sem,Sec A,Thu,2,10:00-11:00,Pattern Recognition,Harshith C,Theory
-7th Sem,Sec A,Thu,3,11:15-12:15,Natural Language Processing,Dr. Varshitha D N,Theory
-7th Sem,Sec A,Thu,4,13:00-14:00,Big Data Analytics,Soumya G V,Theory
-7th Sem,Sec A,Fri,1,09:00-10:00,Big Data Analytics,Soumya G V,Theory
-7th Sem,Sec A,Fri,2,10:00-11:00,NoSQL Database,Pooja N S,Theory
-7th Sem,Sec A,Sat,1,09:00-10:00,Big Data Analytics,Soumya G V,Theory
+5th Sem,Sec C,Wed,2,10:00-11:00,Machine Learning,Latha D U,Theory
+5th Sem,Sec C,Wed,3,11:30-12:30,Computer Networks,New Faculty 3,Theory
+5th Sem,Sec C,Wed,4,12:30-13:30,Web App Development,Shruthi B S,Theory
+5th Sem,Sec C,Thu,1,09:00-10:00,Open Elective (Basics of AI/ML),Dr. Sonali Nandish Manoli,Theory
+5th Sem,Sec C,Thu,2,10:00-11:00,Management and Engineering Economics,Rachana S,Theory
+5th Sem,Sec C,Thu,3,11:30-12:30,Computer Networks,New Faculty 3,Theory
+5th Sem,Sec C,Fri,1,09:00-10:00,Management and Engineering Economics,Rachana S,Theory
+5th Sem,Sec C,Fri,2,10:00-11:00,Machine Learning,Latha D U,Theory
+5th Sem,Sec C,Fri,3,11:30-12:30,Computer Networks,New Faculty 3,Theory
+7th Sem,Sec A,Tue,2,10:00-11:00,NoSQL Database,Pooja N S,Theory
+7th Sem,Sec A,Tue,3,11:30-12:30,Big Data Analytics,Soumya G V,Theory
+7th Sem,Sec A,Wed,2,10:00-11:00,Natural Language Processing,Dr. Varshitha D N,Theory
+7th Sem,Sec A,Wed,3,11:30-12:30,NoSQL Database,Pooja N S,Theory
+7th Sem,Sec A,Wed,4,12:30-13:30,Pattern Recognition,Harshith C,Theory
+7th Sem,Sec A,Wed,5,14:00-15:00,Big Data Analytics,Soumya G V,Theory
+7th Sem,Sec A,Fri,2,10:00-11:00,Natural Language Processing,Dr. Varshitha D N,Theory
+7th Sem,Sec A,Fri,3,11:30-12:30,NoSQL Database,Pooja N S,Theory
+7th Sem,Sec A,Fri,4,12:30-13:30,Pattern Recognition,Harshith C,Theory
+7th Sem,Sec A,Sat,1,09:00-10:00,Pattern Recognition,Harshith C,Theory
 7th Sem,Sec A,Sat,2,10:00-11:00,Natural Language Processing,Dr. Varshitha D N,Theory
-7th Sem,Sec A,Sat,3,11:15-12:15,NoSQL Database,Pooja N S,Theory
-7th Sem,Sec A,Sat,4,13:00-14:00,Pattern Recognition,Harshith C,Theory
+7th Sem,Sec A,Sat,3,11:30-12:30,NoSQL Database,Pooja N S,Theory
+7th Sem,Sec A,Sat,4,12:30-13:30,Big Data Analytics,Soumya G V,Theory
 7th Sem,Sec B,Mon,1,09:00-10:00,UI/UX Design,K B Manasa,Theory
-7th Sem,Sec B,Mon,2,10:00-11:00,Natural Language Processing,Dr. Sonali Nandish Manoli,Theory
-7th Sem,Sec B,Mon,3,11:15-12:15,Pattern Recognition,Harshith V,Theory
-7th Sem,Sec B,Mon,4,13:00-14:00,NoSQL Database,Shruthi B S,Theory
-7th Sem,Sec B,Tue,1,09:00-10:00,Pattern Recognition,Harshith V,Theory
-7th Sem,Sec B,Tue,2,10:00-11:00,NoSQL Database,Shruthi B S,Theory
-7th Sem,Sec B,Tue,3,11:15-12:15,Natural Language Processing,Dr. Sonali Nandish Manoli,Theory
-7th Sem,Sec B,Wed,1,09:00-10:00,NoSQL Database,Shruthi B S,Theory
-7th Sem,Sec B,Wed,2,10:00-11:00,UI/UX Design,K B Manasa,Theory
-7th Sem,Sec B,Wed,3,11:15-12:15,Pattern Recognition,Harshith V,Theory
-7th Sem,Sec B,Wed,4,13:00-14:00,Natural Language Processing,Dr. Sonali Nandish Manoli,Theory
-7th Sem,Sec B,Fri,1,09:00-10:00,UI/UX Design,K B Manasa,Theory
-7th Sem,Sec B,Fri,2,10:00-11:00,NoSQL Database,Shruthi B S,Theory
+7th Sem,Sec B,Mon,2,10:00-11:00,Pattern Recognition,Harshith V,Theory
+7th Sem,Sec B,Mon,3,11:30-12:30,NoSQL Database,Shruthi B S,Theory
+7th Sem,Sec B,Tue,1,09:00-10:00,NoSQL Database,Shruthi B S,Theory
+7th Sem,Sec B,Tue,2,10:00-11:00,UI/UX Design,K B Manasa,Theory
+7th Sem,Sec B,Tue,3,11:30-12:30,Natural Language Processing,Dr. Sonali Nandish Manoli,Theory
+7th Sem,Sec B,Thu,2,10:00-11:00,UI/UX Design,K B Manasa,Theory
+7th Sem,Sec B,Thu,3,11:30-12:30,NoSQL Database,Shruthi B S,Theory
+7th Sem,Sec B,Thu,4,12:30-13:30,Pattern Recognition,Harshith V,Theory
+7th Sem,Sec B,Fri,2,10:00-11:00,Natural Language Processing,Dr. Sonali Nandish Manoli,Theory
+7th Sem,Sec B,Fri,3,11:30-12:30,NoSQL Database,Shruthi B S,Theory
+7th Sem,Sec B,Sat,2,10:00-11:00,Natural Language Processing,Dr. Sonali Nandish Manoli,Theory
+7th Sem,Sec B,Sat,3,11:30-12:30,Pattern Recognition,Harshith V,Theory
